@@ -1,5 +1,7 @@
 # GC-Room-Calculator
 
+Repository acting as a submission method for Grand Circus C# .NET Bootcamp, Week 1, Lab 2 - Room Calculator
+
 Step 1:
 The user will be prompted three times to enter each individual value for the room's measurements. 
 First will ask for length, Second will ask for width and Third will ask for height.
