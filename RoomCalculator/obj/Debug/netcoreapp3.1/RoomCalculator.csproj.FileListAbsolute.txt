@@ -1,0 +1,13 @@
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.exe
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.deps.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.dev.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfo.cs
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.genruntimeconfig.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.csprojAssemblyReference.cache

@@ -1,5 +1,3 @@
-# GC-Room-Calculator
-
 Step 1:
 The user will be prompted three times to enter each individual value for the room's measurements. 
 First will ask for length, Second will ask for width and Third will ask for height.
